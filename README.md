@@ -1,4 +1,4 @@
 # AndroidOpenGl
 
 
-[Watch the video](https://www.youtube.com/watch?v=7NyON-NzBr4)
+[Watch the video](https://youtu.be/_nb44pEWnRk)
